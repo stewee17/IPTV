@@ -3,7 +3,7 @@
 # Built with the CODECS.COM Playlist Builder
 
 #EXTINF:-1 tvg-id="AMC.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC
-http://88.212.15.19/live/amc_hun/index.m3u8
+http://127.0.0.1:34400/m3u/threadfin.m3u
 
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://imgur.com/85sIvrX" tvg-id="ATV.hu" tvg-chno="3" tvg-country="HU" group-title="Hungary",ATV
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
